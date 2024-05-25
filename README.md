@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chinmay-V7 👨🏽‍🎓
 - 👀 I’m interested in Web-Dev AI, Ml and Data science
-- 🌱 Skills: c, c++, python, DSA
-- 💞️ I’m looking to collaborate on any beginner projects
+- 🌱 Skills: c, c++, python, javascript, PHP, Fullstack, DSA
+- 💞️ I’m looking to collaborate on projects
 - 📫 chinmay2k3v@gmail.com
 
 <!---
